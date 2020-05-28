@@ -1,3 +1,4 @@
 playlists
 artists
 media-video
+favorites
